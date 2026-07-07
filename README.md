@@ -2,7 +2,7 @@
 
 > **Sistema Inteligente de Monitoreo de Calidad del Aire basado en ESP32**
 
-AirGuardian IoT es una estación inteligente de monitoreo ambiental diseñada para medir, analizar y visualizar la calidad del aire en tiempo real. El sistema integra sensores especializados para detectar dióxido de carbono (CO₂), ozono (O₃) y gases nocivos en el ambiente, procesa las mediciones mediante algoritmos de conversión y cálculo del Índice de Calidad del Aire (AQI), y presenta la información tanto de forma local en una pantalla TFT como de manera remota a través de una plataforma IoT.
+ToffAir IoT es una estación inteligente de monitoreo ambiental diseñada para medir, analizar y visualizar la calidad del aire en tiempo real. El sistema integra sensores especializados para detectar dióxido de carbono (CO₂), ozono (O₃) y gases nocivos en el ambiente, procesa las mediciones mediante algoritmos de conversión y cálculo del Índice de Calidad del Aire (AQI), y presenta la información tanto de forma local en una pantalla TFT como de manera remota a través de una plataforma IoT.
 
 El proyecto fue desarrollado utilizando un ESP32 como unidad principal de procesamiento, incorporando conectividad WiFi para transmitir datos en tiempo real hacia Adafruit IO, permitiendo el monitoreo desde cualquier dispositivo con acceso a Internet.
 
@@ -84,7 +84,7 @@ El proyecto fue desarrollado utilizando un ESP32 como unidad principal de proces
 
 # Plataforma IoT ☁️
 
-AirGuardian utiliza Adafruit IO para almacenar y visualizar las mediciones obtenidas por los sensores.
+ToffAir utiliza Adafruit IO para almacenar y visualizar las mediciones obtenidas por los sensores.
 
 Actualmente se transmiten los siguientes parámetros:
 

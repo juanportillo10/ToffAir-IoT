@@ -51,7 +51,7 @@ El proyecto fue desarrollado utilizando un ESP32 como unidad principal de proces
 # Imagenes del Proyecto
 
 <img src="imagenes/PCB_Front.png" alt="Parte frontal de la PCB en 3D" width="400"/> <img src="imagenes/PCB_Back.png" alt="Parte trasera de la PCB en 3D" width="350"/>
-<img src="imagenes/Front.png" alt="Parte frontal de la PCB" width="400"/> <img src="imagenes/back.png" alt="Parte trasera de la PCB" width="350"/>
+<img src="imagenes/Front.png" alt="Parte frontal de la PCB" width="370"/> <img src="imagenes/back.png" alt="Parte trasera de la PCB" width="370"/>
 
 ---
 
